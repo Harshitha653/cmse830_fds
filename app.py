@@ -16,7 +16,7 @@ st.sidebar.title("Navigate")
 page = st.sidebar.radio("", ["Info", "Background", "Dashboard", "Export", "Contact"])
 
 # ---- File paths ----
-AQI_FILE = "C:\\Users\\harsh\\Downloads\\CMSE-830\\Project\\WHO_air_quality_data.csv"
+AQI_FILE = "https://raw.githubusercontent.com/Harshitha653/cmse830_fds/main/WHO_air_quality_data.csv"
 TOP_N_CITIES_PIE = 10
 
 # ---- Animation ----
