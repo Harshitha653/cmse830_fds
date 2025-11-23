@@ -26,3 +26,5 @@ Data comes from the **[WHO Ambient Air Quality Database](https://www.who.int/tea
 2. Install dependencies using the Requirement.txt file.
 3. Run the streamlit app. 
 
+## Streamlit app link 
+https://cmse830fds-qtaemuw9rz9aye54szenjr.streamlit.app/ 
